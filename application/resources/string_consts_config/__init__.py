@@ -1,0 +1,1 @@
+from application.resources.string_consts_config.strings import ABOUT_MESSAGE
